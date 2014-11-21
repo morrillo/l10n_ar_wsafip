@@ -27,7 +27,7 @@
             <field name="name">wsafip.server.form</field>
             <field name="model">wsafip.server</field>
             <field name="arch" type="xml">
-		<form string="AFIP server" version="7.0">
+		<form string="AFIP server" >
 		    <header>
 		    </header>
 		    <sheet string="AFIP Servers">
